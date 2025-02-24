@@ -17,6 +17,7 @@ function App() {
 
   return (
     <ul>
+      <h1>Supabase + React</h1>
       {instruments.map((instrument) => (
         <li key={instrument.name}>{instrument.name}</li>
       ))}
