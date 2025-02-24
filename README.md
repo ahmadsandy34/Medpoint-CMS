@@ -1,6 +1,6 @@
 # Introduction
 
-This is the front-end web side development repository for Medpoint System
+This is the front-end web development repository for Medpoint System
 
 # Technology
 
