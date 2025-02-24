@@ -18,6 +18,7 @@ function App() {
   return (
     <ul>
       <h2>List of Instruments</h2>
+      <p>Instruments ABC</p>
       {instruments.map((instrument) => (
         <li key={instrument.name}>{instrument.name}</li>
       ))}
